@@ -18,7 +18,7 @@ int main() {
 
     result[j] = '\0';
 
-    cout << "String after removing spaces: " << result << endl;
+    cout << "String after removin spaces: " << result << endl;
 
     return 0;
 }
