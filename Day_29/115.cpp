@@ -1,5 +1,4 @@
 // Write a program to Create menu-driven string operations system.
-// WAP to Create Menu-Driven String Operations System
 
 #include<iostream>
 #include<string.h>

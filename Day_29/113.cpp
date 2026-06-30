@@ -1,5 +1,5 @@
 // write a program to create menu driven claculator 
-// WAP to Create Menu Driven Calculator
+
 
 #include <iostream>
 using namespace std;
